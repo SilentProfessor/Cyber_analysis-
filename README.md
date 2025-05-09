@@ -39,29 +39,5 @@ Output Example
 203.0.113.50: 9 attempts
 ...
 
-License
-MIT License
 
-Author
-Your Name – GitHub Profile
-
-
----
-
-### **Steps to Upload to GitHub:**
-
-1. **Create GitHub Repository**
-
-   - Go to [GitHub](https://github.com) > New Repository
-   - Name it e.g., `cybersec-log-analyzer`
-
-2. **Push Code from Local Terminal**
-
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit"
-   git branch -M main
-   git remote add origin https://github.com/yourusername/log-analyzer.git
-   git push -u origin main
 
